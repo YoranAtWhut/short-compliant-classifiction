@@ -1,0 +1,2 @@
+# short-compliant-classification
+这是一个基于tensorflow的、针对小区投诉分类的classifier。整个模型基于CNN和word embedding原理，最终分类准确率可以达到80%左右，并且该模型并没有使用word2vec，如果用了的话不知道会不会可以提高准确率。
